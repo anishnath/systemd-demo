@@ -21,3 +21,4 @@ go-systemd
 
 # Go workspace file
 go.work
+.idea/
